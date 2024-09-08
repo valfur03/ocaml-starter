@@ -1,0 +1,5 @@
+(test
+ (name test_ocaml_starter)
+ (libraries ounit2 ocaml_starter)
+ (instrumentation
+  (backend bisect_ppx)))
