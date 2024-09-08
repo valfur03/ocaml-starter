@@ -1,5 +1,8 @@
 # OCaml Starter
 
+[![Build, test and deploy](https://github.com/valfur03/ocaml-starter/actions/workflows/build-test-deploy.yaml/badge.svg)](https://github.com/valfur03/ocaml-starter/actions/workflows/build-test-deploy.yaml)
+[![codecov](https://codecov.io/github/valfur03/ocaml-starter/graph/badge.svg?token=A51WXKM4LU)](https://codecov.io/github/valfur03/ocaml-starter)
+
 ## TL; DR;
 
 This repository contains a minimal yet powerful configuration
