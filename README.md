@@ -13,5 +13,5 @@ To start using it :
 2. Configure your repo on [Codecov](https://docs.codecov.com/docs/quick-start#getting-started).
 3. Copy [all the files](https://github.com/valfur03/ocaml-starter/archive/refs/heads/main.zip),
    except the _.git_ directory if present, into your newly created repository.
-4. Edit the files with the name of your repo.
-5. Edit _dune-project_ with the details of your repo.
+4. Edit the files with the name of your repo (editing the _*.opam_ file is not necessary).
+5. Edit _dune-project_ with the details of your repo, and run `dune build` to regenerate the _.opam_ file.
